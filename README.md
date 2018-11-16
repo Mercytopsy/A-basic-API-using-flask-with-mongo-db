@@ -6,7 +6,7 @@
 
 ## Installation
 
-    Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask and PyMongo.
+   Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask and PyMongo.
 
 ```bash
 pip install Flask
